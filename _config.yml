@@ -1,0 +1,14 @@
+# Site settings
+title: Rodrigo Del Monte
+email: rodrigo.dexter@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Olá, trabalho com tecnologia e uso esse espaço para contar sobre as minhas
+  aventuras e opiniões sobre a área de TI, mais especificamente sobre assuntos
+  como Open Source e Cloud Computing.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rodrigodelmonte.it" # the base hostname & protocol for your site
+twitter_username: rodrigovmonte
+github_username:  rodrigodelmonte
+
+# Build settings
+markdown: kramdown
