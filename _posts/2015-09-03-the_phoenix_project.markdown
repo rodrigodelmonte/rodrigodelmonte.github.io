@@ -15,7 +15,7 @@ Basicamente o que o livro ensina é como nos o "TI" podemos apreender com outros
 
 * Terceiro quem disse que nós já encontramos a melhor maneira para trabalhar e entregar nossos projetos. Nossos projetos são entregues no prazo? Dentro do orçamento? Com qualidade?
 
-A estória de fixação tem como protagonista Bill, o cara que recebeu o abacaxi do departamento após seus chefes terem pulado pra fora do barco. Bill recebe a missão de salvar o departamento em 90 dias caso contrário o departamento seria terceriazado, e ele tem como mentor um dos membros da diretoria da empresa que não manja nada de "TI", mas tudo de linha de produção e da filosofia [The Three Way](http://itrevolution.com/the-three-ways-principles-underpinning-devops/). E por incrível que pareça depois de muitos problemas as coisas dão certo. 
+A estória de ficção tem como protagonista Bill, o cara que recebeu o abacaxi do departamento após seus chefes terem pulado pra fora do barco. Bill recebe a missão de salvar o departamento em 90 dias caso contrário o departamento seria terceriazado, e ele tem como mentor um dos membros da diretoria da empresa que não manja nada de "TI", mas tudo de linha de produção e da filosofia [The Three Way](http://itrevolution.com/the-three-ways-principles-underpinning-devops/). E por incrível que pareça depois de muitos problemas as coisas dão certo. 
 
 Recomendo esse livro para todo profissional que as vezes se pergunta *Cara o que eu to fazendo aqui ?*. Talvez esse livro te ajude a enxergar uma luz no fim do túnel.
 
