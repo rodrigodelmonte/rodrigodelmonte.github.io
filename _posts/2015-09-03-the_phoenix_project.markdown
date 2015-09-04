@@ -21,8 +21,8 @@ A estória de fixação tem como protagonista Bill, o cara que recebeu o abacaxi
 
 Recomendo esse livro para todo profissional que as vezes se pergunta *Cara o que eu to fazendo aqui ?*. Talvez esse livro ajude você a enxergar uma luz no fim do tunel.
 
-![Alt text](http://itrevolution.com/wp-content/uploads/2012/04/The-Phoenix-Project-721.jpg "")
+![image](http://itrevolution.com/wp-content/uploads/2012/04/The-Phoenix-Project-721.jpg "Livro")
 
 [Link do livro na Amazon](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=sr_1_1?s=books&ie=UTF8&qid=1441324977&sr=1-1&keywords=the+phoenix+project&pebp=1441324978989&perid=019JEY76F57D9R6FH54K)
 
-[Outro link bacana] (http://devops.com/2015/02/11/five-great-books-on-devops/)
+[Outro link bacana](http://devops.com/2015/02/11/five-great-books-on-devops/)
