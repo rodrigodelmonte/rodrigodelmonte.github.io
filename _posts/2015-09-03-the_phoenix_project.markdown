@@ -5,8 +5,6 @@ date:   2015-09-03 20:29:15
 categories: book
 ---
 
-#The Phoenix Project
-
 O livro foi escrito por GENE KIM, KEVIN BEHR e GEORGE SPAFFORD, eles contam como a empresa americana Parts Unlimited varejista de peças de carro nos EUA conseguiu fazer o famoso "TI" parar de atrapalhar o negócio e começar a realmente ajudar a empresa a ser mais competitiva em relação aos concorrentes.
 
 Basicamente o que o livro ensina é como nos o "TI" podemos apreender com outros segmentos, exemplo uma linha de produção de uma fabrica. *Neste momento você se pergunta o que eu profissional de "TI" perdi em uma linha de produção? Muita coisa cara!*
