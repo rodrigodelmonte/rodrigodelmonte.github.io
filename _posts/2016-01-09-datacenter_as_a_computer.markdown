@@ -23,7 +23,7 @@ E agora se eu multiplicar a configuração a cima por 10 eu tenho a seguinte maq
 * 640 GB de memoria.
 * 10 TB de disco.
 
-Além de unificar os recursos de hardware em um super servidor, esse modelo é responsável por distribuir as aplicações pelo cluster de servidores, garantindo que a servidor onde a tarefa irá rodar possua os requisitos de hardware que a aplicação precisa. Esse modelo é capaz de trabalhar com aplicações que tem longo tempo de vida, mais conhecidas como serviços, rs. Se um serviço deve rodar em 3 servidores do cluster e um servidor vir a falhar, o orquestrador encontra outra servidor disponivel no cluster para esse serviço, eu também possos ter uma ou mais serviços rodando no mesmo servidor.
+Além de unificar os recursos de hardware em um super servidor, esse modelo é responsável por distribuir as aplicações pelo cluster de servidores, garantindo que a servidor onde a tarefa irá rodar possua os requisitos de hardware que a aplicação precisa. Esse modelo é capaz de trabalhar com aplicações que tem longo tempo de vida, mais conhecidas como serviços, rs. Se um serviço deve rodar em 3 servidores do cluster e um servidor vir a falhar, o orquestrador encontra outra servidor disponivel no cluster para esse serviço.
 
 Nós sempre escutamos ao longo dos anos que um servidor deve possuir apenas uma aplicação rodando. Esse modelo vai na contra mão e diz para colocar todos os tipos de aplicações no mesmo super servidor, porém as aplicações devem ser encapsuladas em containers assim essa camada garante o isolamento do processo.
 
