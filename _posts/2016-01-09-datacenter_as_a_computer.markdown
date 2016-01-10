@@ -25,7 +25,7 @@ E agora se eu multiplicar a configuração a cima por 10 eu tenho a seguinte maq
 
 Além de unificar os recursos de hardware em um super servidor, esse modelo é responsável por distribuir as aplicações pelo cluster de servidores, garantindo que a servidor onde a tarefa irá rodar possua os requisitos de hardware que a aplicação precisa. Esse modelo é capaz de trabalhar com aplicações que tem longo tempo de vida, mais conhecidas como serviços, rs. Se um serviço deve rodar em 3 servidores do cluster e um servidor vir a falhar, o orquestrador encontra outra servidor disponivel no cluster para esse serviço.
 
-Nós sempre escutamos ao longo dos anos que um servidor deve possuir apenas uma aplicação rodando, e o WSM modelo vai na contra mão e diz para colocar todos os tipos de aplicações no mesmo super servidor, porém as aplicações devem ser encapsuladas em containers assim essa camada garante o isolamento do processo.
+Nós sempre escutamos ao longo dos anos que um servidor deve possuir apenas uma aplicação rodando, já o WSM modelo vai na contra mão e diz para colocar todos os tipos de aplicações no mesmo super servidor, porém as aplicações devem ser encapsuladas em containers assim essa camada garante o isolamento do processo.
 
 Ter 3 aplicações consumindo 90 % da carga de um servidor é bem mais eficiente e barato do que ter, 3 servidores cada um com 1 aplicação e apenas 30% da carga sendo consumida por servidor. Porém você deve distribuir as aplicações em 2 ou mais servidores, ou seja, se usarmos mais 1 servidor para o exemplo acima nós estamos garantimos a resiliência das 3 aplicações e ainda assim economizamos um servidor.
 
